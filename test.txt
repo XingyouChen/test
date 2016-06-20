@@ -1,4 +1,0 @@
-new test.txt
-new words by linux
-add words by github
-222
